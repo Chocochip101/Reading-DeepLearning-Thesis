@@ -1,1 +1,1 @@
-# Reading-DeepLearning-Thesis
+# 딥러닝 관련 논문 읽기
